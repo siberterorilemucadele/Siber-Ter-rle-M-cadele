@@ -1,10 +1,10 @@
 # 🛡️ Siber Terör ile Mücadele
 
-Siber tehditlere, dijital dolandırıcılığa, veri sızıntılarına, çevrim içi zorbalığa ve karanlık ağ kaynaklı içeriklere karşı farkındalık oluşturmayı ve açık kaynak araştırmalarıyla ihbar süreçlerini desteklemeyi amaçlayan bağımsız bir topluluk projesidir.
+Siber tehditlere, dijital dolandırıcılığa, veri sızıntılarına (örn; panel vb.), çevrim içi zorbalığa ve karanlık ağ kaynaklı içeriklere karşı farkındalık oluşturmayı ve açık kaynak araştırmalarıyla ihbar süreçlerini desteklemeyi amaçlayan devletten bağımsız bir kurumudur.
 
 Bu proje herhangi bir resmî kurumla bağlantılı değildir ve tamamen yasal, açık kaynak, araştırma ve raporlama odaklıdır.
 
-🎯 Amaç
+# 🎯 Amaç
 
 Siber suç türleri hakkında bilgilendirici içerikler hazırlamak
 
@@ -15,3 +15,5 @@ Dolandırıcılık yöntemleri ve sosyal mühendislik saldırıları hakkında k
 Zararlı içerik, terör propagandası, çocuk istismarı materyali, zorbalık gibi unsurların doğru mercilere ihbar edilmesini kolaylaştırmak
 
 Dijital güvenlik konusunda eğitici rehberler sunmak
+
+Panel gibi içerikleri sanal alemden tamamen silmek
